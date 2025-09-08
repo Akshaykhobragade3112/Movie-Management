@@ -1,0 +1,33 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+package.json
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+logs/*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Coverage / test outputs
+coverage/
+*.lcov
+
+# Build artifacts
+dist/
+build/
+
+# Docker
+*.pid
