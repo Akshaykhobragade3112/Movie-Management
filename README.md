@@ -49,14 +49,12 @@ npm run dev
 
 Server will run on: http://localhost:5000
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c0e4efed-7bb4-4f3c-86d7-ea740292d552" />
-
-
 
 ## Swagger Documentation :
 
 After starting the server, open Swagger UI at:
  http://localhost:5000/api-docs
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c0e4efed-7bb4-4f3c-86d7-ea740292d552" />
 
  Project Structure :
  ```bash
